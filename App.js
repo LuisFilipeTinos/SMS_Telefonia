@@ -1,14 +1,3 @@
-// =====================================================
-// FALA COMIGO - App de ensino: Telefonia e SMS com Expo
-// =====================================================
-// Conceitos trabalhados:
-// 1. Estado com useState
-// 2. Validação simples de entrada
-// 3. Linking: abrir outros apps do celular (discador)
-// 4. expo-sms: verificar disponibilidade e abrir o app de mensagens
-// 5. async/await e tratamento de erros
-// =====================================================
-
 import { useState } from 'react';
 import {
   StyleSheet,
